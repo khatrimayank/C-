@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mayank.khatri\\source\\repos\\Learning_C_Sharp\\Learning_C_Sharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mayank.khatri\\source\\repos\\Learning_C_Sharp\\Learning_C_Sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mayank.khatri\\source\\repos\\Learning_C_Sharp\\Learning_C_Sharp.csproj",
+        "projectName": "Learning_C_Sharp",
+        "projectPath": "C:\\Users\\mayank.khatri\\source\\repos\\Learning_C_Sharp\\Learning_C_Sharp.csproj",
+        "packagesPath": "C:\\Users\\mayank.khatri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayank.khatri\\source\\repos\\Learning_C_Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mayank.khatri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

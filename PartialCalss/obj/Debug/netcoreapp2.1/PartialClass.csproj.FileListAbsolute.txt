@@ -1,0 +1,11 @@
+C:\Users\mayank.khatri\source\repos\PartialCalss\bin\Debug\netcoreapp2.1\PartialClass.deps.json
+C:\Users\mayank.khatri\source\repos\PartialCalss\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.json
+C:\Users\mayank.khatri\source\repos\PartialCalss\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.dev.json
+C:\Users\mayank.khatri\source\repos\PartialCalss\bin\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\mayank.khatri\source\repos\PartialCalss\bin\Debug\netcoreapp2.1\PartialClass.pdb
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.csprojAssemblyReference.cache
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfoInputs.cache
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfo.cs
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\mayank.khatri\source\repos\PartialCalss\obj\Debug\netcoreapp2.1\PartialClass.pdb
